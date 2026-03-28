@@ -1,9 +1,9 @@
 airbnb_snowflake_dbt_project:
   outputs:
     dev:
-      account: YHFQQFN-FF93731
+      account: *************
       database: AIRBNB
-      password: M@H@kal20010702
+      password: ************
       role: ACCOUNTADMIN
       schema: dbt_schema
       threads: 1
